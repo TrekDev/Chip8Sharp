@@ -1,0 +1,6 @@
+﻿<Window x:Class="Chip8Sharp.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="360" Width="650">
+    <Image x:Name="canvas" Height="320" Width="640"/>
+</Window>
